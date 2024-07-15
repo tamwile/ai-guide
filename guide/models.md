@@ -25,11 +25,10 @@ There are several sources recommended for being up-to-date on the latest release
 - Communities, like [**r/SillyTavernAI**](https://old.reddit.com/r/SillyTavernAI/) on Reddit (roleplay-focused), and Discord servers for [**TheBloke**](https://discord.com/invite/Jq4vkcDakD), [**KoboldAI**](https://koboldai.org/discord), and [**SillyTavern**](https://discord.com/invite/SillyTavern)
 - In the case of roleplay models, [**Lewdiculous' personal favorites**](https://huggingface.co/collections/Lewdiculous/personal-favorites-65dcbe240e6ad245510519aa)
 
-As of May 21st, 2024, this guide recommends the following general-purpose models:
+As of July 15th, 2024, this guide recommends the following general-purpose models:
 
-- [**Llama 3 8B**](https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF) on computers with 8 GB RAM or more
-- [**Phi-3 Mini**](https://huggingface.co/bartowski/Phi-3-mini-4k-instruct-GGUF) on computers with less than 8 GB RAM
-- You may or may not have success with [**Phi-3 Medium**](https://huggingface.co/bartowski/Phi-3-medium-4k-instruct-GGUF) on computers with 16 GB RAM or more. The guide author assumes the model to be smart, but not good enough for roleplaying, and pretty slow compared to the previous two.
+- [**Gemma 2 9B SPPO**](https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF) on computers with 8 GB of RAM or more
+- [**Phi-3 Mini**](https://huggingface.co/bartowski/Phi-3.1-mini-4k-instruct-GGUF) on computers with less RAM
 
 ## *Optional: Tips for Power Users*
 
