@@ -19,6 +19,6 @@ She uses this to reason about the world and to think about what she should say n
 ```
 but it's not really needed since text generation models are usually pretty good at following patterns, so you can just add the character's thoughts in your opening message, and add `<{{char}}'s thoughts: "` to "Start Reply With" to give the AI a nudge in the right direction.
 
-On SillyTavern, as mentioned by the guide above, you could also take advantage of the "Regex" option in the Extensions tab and add `/<([^>]*)>/g` to regex. Make sure it affects "AI Output" and the Replacement Strategy is set to "Overlay", like in [this screenshot](https://cdn.discordapp.com/attachments/1092245228028706867/1136566365797498890/image.png). This will hide the AI's thoughts from you, unless you have text streaming enabled or go to edit their message.
+On SillyTavern, as mentioned by the guide above, you could also take advantage of the "Regex" option in the Extensions tab and add `/<([^>]*)>/g` to regex. Make sure it affects "AI Output" and the Replacement Strategy is set to "Overlay". This will hide the AI's thoughts from you, unless you have text streaming enabled or go to edit their message.
 
 The guide author has had the most success using backticks (\`) instead of quotes (") for internal dialogue.
